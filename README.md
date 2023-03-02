@@ -20,3 +20,6 @@ To talk to the sumo platform you will need an Uno, other Arduino boards are not 
 
 You can find the Pololu library in Create by clicking the libaries tab and searching for ZUMOSHIELD.
 
+### Basics
+
+Sensor return an array of values reading from: 0 - white, 2000 - black, 200-400 white line, 700-900 red line. Each sensor can be address individually for left/right control.
